@@ -53,6 +53,7 @@ form div select {
   padding: 0;
   border: 1px solid #ddd;
   width: 100%;
+  -webkit-transition: border .5s;
 }
 
 button:hover {
